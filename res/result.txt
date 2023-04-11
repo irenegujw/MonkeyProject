@@ -1,0 +1,42 @@
+Monkeys in the enclosure for guereza:
+m2 [female, favorite food: fruits]
+m1 [male, favorite food: eggs]
+
+Monkeys in the enclosure for tamarin:
+m3 [male, favorite food: insects]
+
+Name list (Alphabetically):
+m1 m2 m3 
+
+Monkeys in the enclosure for guereza:
+m2 [female, favorite food: fruits]
+
+Monkeys in the enclosure for tamarin:
+m3 [male, favorite food: insects]
+
+Name list (Alphabetically):
+m1 m2 m3 
+
+Monkeys in the enclosure for drill:
+----------------------
+Monkeys in the enclosure for guereza:
+m2 [female, favorite food: fruits]
+m1 [male, favorite food: eggs]
+----------------------
+Monkeys in the enclosure for howler:
+----------------------
+Monkeys in the enclosure for mangabey:
+----------------------
+Monkeys in the enclosure for saki:
+----------------------
+Monkeys in the enclosure for spider:
+----------------------
+Monkeys in the enclosure for squirrel:
+----------------------
+Monkeys in the enclosure for tamarin:
+m3 [male, favorite food: insects]
+----------------------
+
+Name list (Alphabetically):
+m1 m2 m3 
+
